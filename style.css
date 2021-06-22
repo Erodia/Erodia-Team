@@ -36,7 +36,7 @@ a {
 nav {
   overflow: hidden;
   background-color: #FFFAE1;
-  position: static;
+  position: fixed;
   width: 100%;
   opacity: 0.8;
 }
